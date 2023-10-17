@@ -1,4 +1,67 @@
 #mcflan {
-    color: grey;
+    color: red;
     font-style: italic;
+}
+#hello {
+    color: red;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.gras {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 5rem;
+}
+
+.btn {
+    background-color: pink;
+    padding: 2em;
+    border-radius: 30px;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.chartreuse {
+    background-color: chartreuse;
+}
+
+.center {
+    text-align: center;
+}
+
+#likes {
+    display: inline-block;
+    margin-left: 2em;
+    font-size: 3em;
+}
+
+body {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+.bouton {
+    padding: 2em;
+    border-radius: 30px;
+}
+
+.texte {
+    font-size: 1em;
+    color: red;
+}
+
+.textes {
+    font-size: 3em;
+    color: red;
 }
