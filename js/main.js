@@ -212,8 +212,8 @@ replaceC("#exo", "autruche", "green")
         const bouton = document.querySelector('.bouton')
 
         bouton.addEventListener("click", function() {
-            body.classList.toggle("black");
             body.classList.toggle("white");
+            body.classList.toggle("black");
         })
 
         // Timers
